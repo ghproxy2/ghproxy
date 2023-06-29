@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "npm install express && npm install http-proxy-middleware &&　node index.js"
   },
   "repository": {
     "type": "git",
